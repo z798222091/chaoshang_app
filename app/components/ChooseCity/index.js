@@ -4,14 +4,14 @@ export default class ChooseCity extends Component{
     render(){
         return (
          <div className="city">
-             <h3>选择城市</h3>
+             <h3>选择分类</h3>
              <ul>
-                 <li onClick={this.props.changeCity.bind(this,'北京')}>北京</li>
-                 <li onClick={this.props.changeCity.bind(this,'杭州')}>杭州</li>
-                 <li onClick={this.props.changeCity.bind(this,'天津')}>天津</li>
-                 <li onClick={this.props.changeCity.bind(this,'上海')}>上海</li>
-                 <li onClick={this.props.changeCity.bind(this,'深圳')}>深圳</li>
-                 <li onClick={this.props.changeCity.bind(this,'南京')}>南京</li>
+                 <li onClick={this.props.changeCity.bind(this,'时尚')}>时尚</li>
+                 <li onClick={this.props.changeCity.bind(this,'潮流')}>潮流</li>
+                 <li onClick={this.props.changeCity.bind(this,'新奇')}>新奇</li>
+                 <li onClick={this.props.changeCity.bind(this,'文艺')}>文艺</li>
+                 <li onClick={this.props.changeCity.bind(this,'大牌')}>大牌</li>
+                 <li onClick={this.props.changeCity.bind(this,'原创')}>原创</li>
              </ul>
          </div>
         )

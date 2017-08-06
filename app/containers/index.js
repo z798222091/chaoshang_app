@@ -1,6 +1,4 @@
-/**
- * Created by T450 on 2017/7/25.
- */
+
 import React, {Component} from 'react';
 import RouterMap from '../routers/index'
 import {connect} from 'react-redux';
@@ -26,9 +24,8 @@ import {getStorage} from '../local'
     componentDidMount() {
         let cityName = getStorage('cityName');
         if(cityName == null){
-            cityName = '杭州';
+            cityName = '时尚';
         }
-        //页面加载后设置一个默认的城市
         this.props.userActions.update({cityName});
         this.setState({
             done: true

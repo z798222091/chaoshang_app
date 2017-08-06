@@ -1,8 +1,7 @@
 module.exports = {
-    img: 'http://images2015.cnblogs.com/blog/138012/201610/138012-20161016201638030-473660627.png',
-    title: '天下第一锅',
+    img: 'http://img.essxd.com/201707/711518_16189279_k3_3.jpg',
+    title: '松紧裤装',
     star: 4,
-    price: '88',
-    subTitle: '重庆 & 四川 麻辣火锅',
-    desc: '营业时间 11:00 - 21:00 <br> 电话订购 11:00 - 19:00 <br> 网络订购 11:00 - 19:00'
+    price: '180',
+    subTitle: 'color ★ 松紧&系带可使用',
 }

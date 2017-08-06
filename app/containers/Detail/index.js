@@ -16,7 +16,7 @@ import  {bindActionCreators} from 'redux';
     render(){
         return (
          <div>
-             <HeaderComponent title="商户详情" history={this.props.history}/>
+             <HeaderComponent title="商品详情" history={this.props.history}/>
               <Info id={this.props.match.params.id}/>
              <Buy buy={this.buy.bind(this)} store={this.store.bind(this)} isStore={this.state.isStore}/>
              <Comment id={this.props.match.params.id}/>

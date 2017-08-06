@@ -9,7 +9,7 @@ import ChooseCity from '../../components/ChooseCity';
     render(){
         return (
          <div>
-             <HeaderComponent title="选择城市" history={this.props.history}/>
+             <HeaderComponent title="选择分类" history={this.props.history}/>
              <CurrentCity cityName={this.props.userInfo.cityName}/>
              <ChooseCity changeCity={this.changeCity.bind(this)}/>
          </div>

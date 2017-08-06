@@ -5,7 +5,7 @@ export default class UserInfo extends Component{
         return (
          <div className="user-info" >
              用户名: {this.props.userInfo.username}<br/>
-             城市: {this.props.userInfo.cityName}
+             上次所选: {this.props.userInfo.cityName}
          </div>
         )
     }

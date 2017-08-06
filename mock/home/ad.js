@@ -1,32 +1,32 @@
 module.exports = [
     {
-        title: '回帖赢现金',
-        img: 'https://www.dpfile.com/sc/ares_pics/245d15d2f9a87425bc2bcd192184d774.jpg',
+        title: '简约惹人爱',
+        img: 'http://img.essxd.com/201707/712337_16206907_k3_3.jpg',
         link: 'http://www.baidu.cn'
     },
     {
-        title: '0元抽奖',
-        img: 'https://www.dpfile.com/toevent/img/78c6f1f537ce3c111390819bcdbaa9a0.jpg',
+        title: '露肩T恤',
+        img: 'http://img.essxd.com/201707/712257_16204142_k3_3.jpg',
         link: 'http://www.baidu.cn'
     },
     {
-        title: 'vip享特权',
-        img: 'https://www.dpfile.com/sc/ares_pics/805bb9b259e1ae231be6c40cb414ff8c.jpg',
+        title: '短裙裤',
+        img: 'http://img.essxd.com/201707/712053_16202093_k3_3.gif',
         link: 'http://www.baidu.cn'
     },
     {
-        title: '大张伟喊你领',
-        img: 'https://www.dpfile.com/sc/ares_pics/79e90357f924b999ee26a5239d641b76.jpg',
+        title: '印花雪纺衫',
+        img: 'http://img.essxd.com/201707/712217_16203729_k3_3.gif',
         link: 'http://www.baidu.cn'
     },
     {
-        title: '疯抢现金券',
-        img: 'https://www.dpfile.com/sc/ares_pics/afbd54e882242ef09a1c3391f16dbb09.jpg',
+        title: '蕾丝边装饰',
+        img: 'http://img.essxd.com/201707/712070_16200147_k3_3.jpg',
         link: 'http://www.baidu.cn'
     },
     {
-        title: '送现金券好礼',
-        img: 'http://www.dpfile.com/mwap/mfclwl_jrtt_2/mmlong/ad/right-ad.png',
+        title: '甜美氛围',
+        img: 'http://img.essxd.com/201707/711724_16193198_k3_3.jpg',
         link: 'http://www.baidu.cn'
     }
 ]

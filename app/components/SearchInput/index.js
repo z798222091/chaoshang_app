@@ -9,7 +9,7 @@ export default class SearchInput extends Component{
     }
     render(){
         return (
-             <input type="text" value={this.state.value} onChange={this.change.bind(this)} onKeyUp={this.search.bind(this)}/>
+             <input type="text" value={this.state.value} onChange={this.change.bind(this)} onKeyUp={this.search.bind(this)} placeholder="请输入要搜索的商品/店铺"/>
         )
     }
     change(e){
